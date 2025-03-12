@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+😃 to start on this ✈. Interested in Data Visualization, Data Engineering, Predictive Analytics & Machine Learning
+</p>
+
 
 <!--
 **fkgabriel/fkgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
