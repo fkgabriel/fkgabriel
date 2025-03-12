@@ -1,5 +1,5 @@
 <p align="center">
-😃 to start on this ✈. Interested in Data Visualization, Data Engineering, Predictive Analytics & Machine Learning
+Excited 😃 to start on this learning journey ✈. Interested in Data Visualization, Data Engineering, Predictive Analytics & Machine Learning
 </p>
 
 
